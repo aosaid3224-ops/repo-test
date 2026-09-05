@@ -1,7 +1,20 @@
-Origin: Spider Test Repository
-Label: Spider Test
+Origin: Spider Test Repo
+Label: Spider Tester
 Suite: stable
-Codename: stable
+Version: 1.0
+Codename: ios-test
 Architectures: iphoneos-arm64
 Components: main
-Description: Spider tester repository
+Description: Spider invited tester repository
+MD5Sum:
+ 74ee4e911ed5a5812cd644895ca3018e 1767 Packages
+ dddbf28681a2735ed499d42913a148fb 836 Packages.gz
+ 1938e5b6dad29f26fa5d891c6100aedd 888 Packages.xz
+SHA1:
+ bf5f2633e3aaca796e38067dd25174866fe3e8d7 1767 Packages
+ 80881f1e3c9ce4dba409a87ccbba97651a3f81bb 836 Packages.gz
+ 6c5ec7f8c14ec953c7ebbe03ea0dc9b203b189ee 888 Packages.xz
+SHA256:
+ 15fb4c95d0e0ce002f6b68e40c2fda8a47dfa94284bfd5f09d39735db51b1da8 1767 Packages
+ 783b489de0f20edf3c34b3dd6c9a7953b58b8717edad9f44ec227d00d8d4898b 836 Packages.gz
+ 25a1b8bcff1bc0bdf19fa9c0ac92e0d741365f48f91993efbd71f7a407a6799a 888 Packages.xz
