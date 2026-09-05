@@ -1,0 +1,7 @@
+Origin: Spider Test Repository
+Label: Spider Test
+Suite: stable
+Codename: stable
+Architectures: iphoneos-arm64
+Components: main
+Description: Spider tester repository
